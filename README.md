@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imchimibp&label=Profile%20views&color=68098b&style=plastic" alt="imchimibp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imchimibp" target="blank"><img src="https://img.shields.io/twitter/follow/imchimibp?logo=twitter&style=for-the-badge" alt="imchimibp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chimichurri420" target="blank"><img src="https://img.shields.io/twitter/follow/imchimibp?logo=twitter&style=for-the-badge" alt="imchimibp" /></a> </p>
 
-- 🌱 I’m currently learning **C++, C#, Python, mySQL, Oracle, Unity, Amazon Web Services Java & JavaScript.**
+- 🌱 I’m currently learning **C++, C#, Python, mySQL, Oracle, Unity, Amazon Web Services, Java & JavaScript.**
 
 - ⚡ Fun fact **I love anime, movies, cats, dogs and pc hardware.**
 
