@@ -21,7 +21,7 @@
 <a href="https://twitter.com/chimichurri420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imchimibp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kenneth-porras-chacon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenneth porras chacon" height="30" width="40" /></a>
 <a href="https://instagram.com/imchimibp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imchimibp" height="30" width="40" /></a>
-<a href="https://discord.gg/imchimibp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imchimibp" height="30" width="40" /></a>
+<a href="https://discord.gg/zWhvGrmhnN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zWhvGrmhnN" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
