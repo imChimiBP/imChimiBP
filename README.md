@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++, C#, Python, mySQL, Oracle, Unity, Amazon Web Services, Java & JavaScript.**
 
-- - 🗣️ I speak **Spanish as native language & English.**
+- 🗣️ I speak **Spanish as native language & English.**
 
 - ⚡ Fun fact **I love anime, movies, cats, dogs and pc hardware.**
 
