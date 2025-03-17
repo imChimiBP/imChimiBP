@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love anime, movies, cats, dogs and pc hardware.**
 
-  ![geto](https://github.com/imChimiBP/assets/geto.gif)
+  ![geto](https://github.com/imChimiBP/imChimiBP/assets/geto.gif)
 
 
 <h3 align="left">Connect with me:</h3>
