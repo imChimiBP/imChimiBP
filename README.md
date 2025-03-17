@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/chimichurri420" target="blank"><img src="https://img.shields.io/twitter/follow/imchimibp?logo=twitter&style=for-the-badge" alt="imchimibp" /></a> </p>
 
+![cat](https://github.com/user-attachments/assets/f1f8ee63-ca1c-4ec1-9c17-ea960b230bd2)
+
+
 - 🌱 I’m currently learning **C++, C#, Python, mySQL, Oracle, Unity, Amazon Web Services, Java & JavaScript.**
+
+- - 🗣️ I speak **Spanish as native language & English.**
 
 - ⚡ Fun fact **I love anime, movies, cats, dogs and pc hardware.**
 
